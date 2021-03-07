@@ -1,3 +1,7 @@
 # Port Scanning With Socket in Python
 
-python port-scanning 177.69.128.1
+To run, you need to specify the ip address
+
+Example:
+
+python port-scanning.py 177.69.128.1
